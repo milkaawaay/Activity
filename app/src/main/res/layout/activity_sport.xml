@@ -135,24 +135,7 @@
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent" />
-            <Button
-                android:id="@+id/btnCycle"
-                android:layout_width="350dp"
-                android:layout_height="70dp"
-                android:layout_gravity="center"
-                android:layout_marginStart="20dp"
-                android:layout_marginEnd="20dp"
-                android:layout_marginBottom="14dp"
-                android:backgroundTint="#2CBD32"
-                android:text="Велоспорт"
-                android:textAlignment="center"
-                android:textAppearance="@style/TextAppearance.AppCompat.Display1"
-                android:textColorHighlight="#FFFFFF"
-                android:textColorLink="#4CAF50"
-                app:iconTint="#4CAF50"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent" />
+
             <Button
                 android:id="@+id/btnSwimm"
                 android:layout_width="350dp"
